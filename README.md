@@ -1,6 +1,6 @@
 # Star Sellers
 
-## This application has been deployed using Heroku: https://star-sellers-cd690c8af6ef.herokuapp.com/ 
+## Site Link: https://star-sellers-cd690c8af6ef.herokuapp.com/ 
 
 ## Methodology
 Data for this project came from the Toronto Star's annual year-end bestseller lists, via the Toronto Public Library, for the years 2000-2023.
